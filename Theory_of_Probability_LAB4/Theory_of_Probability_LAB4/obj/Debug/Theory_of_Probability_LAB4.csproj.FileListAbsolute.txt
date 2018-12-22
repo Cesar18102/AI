@@ -1,0 +1,9 @@
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB4\Theory_of_Probability_LAB4\bin\Debug\Theory_of_Probability_LAB4.exe.config
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB4\Theory_of_Probability_LAB4\obj\Debug\Theory_of_Probability_LAB4.Properties.Resources.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB4\Theory_of_Probability_LAB4\obj\Debug\Theory_of_Probability_LAB4.csproj.GenerateResource.Cache
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB4\Theory_of_Probability_LAB4\bin\Debug\Theory_of_Probability_LAB4.exe
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB4\Theory_of_Probability_LAB4\bin\Debug\Theory_of_Probability_LAB4.pdb
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB4\Theory_of_Probability_LAB4\obj\Debug\Theory_of_Probability_LAB4.exe
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB4\Theory_of_Probability_LAB4\obj\Debug\Theory_of_Probability_LAB4.pdb
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB4\Theory_of_Probability_LAB4\obj\Debug\Theory_of_Probability_LAB4.Form1.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB4\Theory_of_Probability_LAB4\obj\Debug\Theory_of_Probability_LAB4.csprojResolveAssemblyReference.cache

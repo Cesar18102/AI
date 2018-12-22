@@ -1,0 +1,12 @@
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB3\Theory_of_Probability_LAB3\bin\Debug\Theory_of_Probability_LAB3.exe.config
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB3\Theory_of_Probability_LAB3\bin\Debug\Theory_of_Probability_LAB3.exe
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB3\Theory_of_Probability_LAB3\bin\Debug\Theory_of_Probability_LAB3.pdb
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB3\Theory_of_Probability_LAB3\obj\Debug\Theory_of_Probability_LAB3.csprojResolveAssemblyReference.cache
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB3\Theory_of_Probability_LAB3\obj\Debug\Theory_of_Probability_LAB3.Form1.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB3\Theory_of_Probability_LAB3\obj\Debug\Theory_of_Probability_LAB3.Properties.Resources.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB3\Theory_of_Probability_LAB3\obj\Debug\Theory_of_Probability_LAB3.csproj.GenerateResource.Cache
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB3\Theory_of_Probability_LAB3\obj\Debug\Theory_of_Probability_LAB3.exe
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB3\Theory_of_Probability_LAB3\obj\Debug\Theory_of_Probability_LAB3.pdb
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB3\Theory_of_Probability_LAB3\obj\Debug\Theory_of_Probability_LAB3.Plain.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB3\Theory_of_Probability_LAB3\obj\Debug\Theory_of_Probability_LAB3.Normal.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Theory_of_Probability_LAB3\Theory_of_Probability_LAB3\obj\Debug\Theory_of_Probability_LAB3.Exp.resources
